@@ -1,15 +1,17 @@
-# Study Resources_review
+# Study Resource Review
 
 This respository contains:
-1. Personal reviews of popular MOOCs and books
-2. Personal study plans
+* Personal reviews of popular MOOCs and books
+* Personal study plans
 
 The choices of MOOCs and books are based on my interests: Computer Vision, Robotics, Deep Learning.
 But they may not necessarily be under these topics.
 
+</br>
+
 -------------------------------------------------------------------
 
-MOOCs taken:
+## MOOCs taken
 1.
 2.
 3.
@@ -18,12 +20,18 @@ MOOCs taken:
 6.
 7.
 
-Books read:
+</br>
+
+## Books read
 1.
 2.
 
-MOOCS to be taken:
+</br>
+
+## MOOCS to be taken
 1.
 
-Books to be read:
+</br>
+
+## Books to be read
 1.
