@@ -9,7 +9,6 @@ But they may not necessarily be under these topics.
 
 </br>
 
--------------------------------------------------------------------
 
 ## MOOCs taken
 1.
