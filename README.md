@@ -173,4 +173,15 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 </br>
 
 # Books to be read
-1.
+
+## Robotics
+
+1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
+
+Pre-Print [Link](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+
+Amazon [Link](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
+
+Coursera [Link](https://www.coursera.org/specializations/modernrobotics)
+
+I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
