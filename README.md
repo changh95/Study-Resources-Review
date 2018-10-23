@@ -39,6 +39,21 @@ Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/
 
 A MATLAB tutorial that will take maximum 1 hour even for a beginner. Only recommended for absolute beginners, or someone who needs a refresher in MATLAB after having not programmed for a long time.
 
+3. CMU 15-112 "Fundamentals of Programming and Computer Science"
+
+Platform|Author|url
+--|--|--
+Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
+
+Learning python
+
+4. Introduction to Linux
+
+Platform|Author|url
+--|--|--
+edX|LinuxFoundationX|[Link](https://www.edx.org/course/introduction-to-linux)
+
+
 3.
 4.
 5.
@@ -96,21 +111,13 @@ Probability theory - CS109 or Stats116
 
 ## Programming
 
-1. CMU 15-112 "Fundamentals of Programming and Computer Science"
-
-Platform|Author|url
---|--|--
-Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
-
-Learning python
-
-2. "Introduction/Intermediate/Advanced to C++"
+1. "Introduction/Intermediate/Advanced to C++"
 
 Platform|Author|url
 --|--|--
 edX|Microsoft|[Link](https://www.edx.org/course/introduction-c-plus-plus-1)
 
-3. "Introduction to C++", 6.069 Jan 2011
+2. "Introduction to C++", 6.069 Jan 2011
 
 Platform|Author|url
 --|--|--
@@ -118,13 +125,7 @@ MIT OpenCourseware|Jesse Dunietz|[Link](https://ocw.mit.edu/courses/electrical-e
 
 Quite an old resource - may not cover C++11 or C++14. Need to check.
 
-4. Introduction to Linux
-
-Platform|Author|url
---|--|--
-edX|LinuxFoundationX|[Link](https://www.edx.org/course/introduction-to-linux)
-
-5. "Introduction to C#"
+3. "Introduction to C#"
 
 Platform|Author|url
 --|--|--
