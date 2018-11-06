@@ -23,15 +23,15 @@ But they may not necessarily be under these topics.
 
 ## Programming
 
-1. MATLAB Fundamentals
+1. (MATLAB) MATLAB Fundamentals
 
 Platform|Author|url
 --|--|--
-MATLAB|MATLAB|[Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)
+MATLAB|MathsWorks|[Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)
 
 A great introduction to MATLAB programming. Through interactive web programming you will understand the basics of MATLAB programming, from handling variables, making tables, visualising data with simple graphs and charts. No pre-requisites are required for the course, however, you may need an academic license for MATLAB due to its cost (Free with academic license). The course is constructed to be completed in 2~3 days, but the content is quite boring so I took about 1-2 weeks. This is the only course I have taken for my master's thesis - with introduction to MATLAB programming, I soon integrated OpenCV onto MATLAB and did a computer vision related project.
 
-2. Shervine Amidi's MATLAB tutorials
+2. (MATLAB) Shervine Amidi's MATLAB tutorials
 
 Platform|Author|url
 --|--|--
@@ -39,7 +39,7 @@ Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/
 
 A MATLAB tutorial that will take maximum 1 hour even for a beginner. Only recommended for absolute beginners, or someone who needs a refresher in MATLAB after having not programmed for a long time.
 
-3. CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)
+3. (Python) CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)
 
 Platform|Author|url
 --|--|--
@@ -47,7 +47,7 @@ Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
 
 A very well constructed introduction to Python programming, as well as to general programming languages. Since this is a proper university lecture content, it comprises of tutorials and homeworks. For anyone with previous programming experience, this course can be taken through very fast. You can still take this course without a previous programmning experience, but I recommend taking MATLAB tutorial first, because the MATLAB tutorial is superior in teaching the basics of programming thoroughly.
 
-4. Introduction to Linux
+4. (UNIX) Introduction to Linux
 
 Platform|Author|url
 --|--|--
