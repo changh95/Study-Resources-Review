@@ -39,13 +39,13 @@ Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/
 
 A MATLAB tutorial that will take maximum 1 hour even for a beginner. Only recommended for absolute beginners, or someone who needs a refresher in MATLAB after having not programmed for a long time.
 
-3. CMU 15-112 "Fundamentals of Programming and Computer Science"
+3. CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)
 
 Platform|Author|url
 --|--|--
 Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
 
-Learning python
+A very well constructed introduction to Python programming, as well as to general programming languages. Since this is a proper university lecture content, it comprises of tutorials and homeworks. For anyone with previous programming experience, this course can be taken through very fast. You can still take this course without a previous programmning experience, but I recommend taking MATLAB tutorial first, because the MATLAB tutorial is superior in teaching the basics of programming thoroughly.
 
 4. Introduction to Linux
 
