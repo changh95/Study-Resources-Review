@@ -175,6 +175,10 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 
 # Books to be read
 
+## Programming
+
+
+
 ## Robotics
 
 1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
@@ -186,3 +190,11 @@ Amazon [Link](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/
 Coursera [Link](https://www.coursera.org/specializations/modernrobotics)
 
 I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
+
+2. "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard and Dieter Fox
+
+pdf [Link](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
+
+A great book about probabilistic methods in robotics, mostly focusing on state estimation and bayes filters. Therefore this book provides a solid foundation in understanding commonly used tracking filters such as Kalman filters, particle filters. The content also extends a bit futher to advanced modern concepts, such as mobile robot localistion and SLAM. 
+
+## Computer Vision
