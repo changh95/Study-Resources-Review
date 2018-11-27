@@ -185,7 +185,7 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 
 ## Machine Learning
 
-1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" -
+1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Géron
 
 O'Reily [Link](http://shop.oreilly.com/product/0636920052289.do)
 
