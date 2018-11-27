@@ -76,7 +76,7 @@ This book is essential for those who have just learned Python programming langua
 
 1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood
 
-[Link](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)
+Amazon [Link](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)
 
 Six Sigma is an engineering philosophy that focuses on achieving the outcome of any processes just as what the customer wants - in numeric measures, it aims to achieve 3.8 defects per million opportunities, by utilising well-established techniques that can be utilised in industry and potentially in research as well. **This book is like a bible to me**. The flow of content is very intuitive and easy to read, even for non process engineering specialists. The reader can fish out useful techniques from the book, and may attempt to apply directly to the current research. I have done this on both my bachelor's and master's thesis - I have used Ishikawa Diagram for cause analysis, and investigating engineering requirement of my system development using Quality Function Deployment. The book does not give details in industry standard, however, it gives a good start point in understanding the importance of quality in both industrial production and scientific research.
 
