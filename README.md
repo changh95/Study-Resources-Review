@@ -72,6 +72,27 @@ O'Reily Website [Link](http://shop.oreilly.com/product/0636920023784.do)
 
 This book is essential for those who have just learned Python programming language, and is willing to learn data science in the future. A well-structured, clean data is key for a good data science practice, which this book provides a great introduction and practice samples using NumPy and Pandas libraries. This book also covers other libraries that helps in understanding the data and manipulating them, using Jupyter Notebook (IPython) and matplotlib for visualisation.
 
+## Robotics
+
+1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
+
+Pre-Print [Link](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+
+Amazon [Link](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
+
+Coursera [Link](https://www.coursera.org/specializations/modernrobotics)
+
+I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
+
+## Computer Vision
+
+1. "Computer Vision - Algorithms and Application" - by Richard Szeliski
+
+pdf [Link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+
+A collection of computer vision / image processing algorithms! Despite convolutional neural network is getting the spotlight in academia and industry in computer vision field nowadays, the fundamental knowledge and skills in image processing and general computer vision techniques must not be underestimated. Such techniques include stereo-correspondences, image stitching, feature extraction, structure from motion, and 3D reconstruction. These techinques, together with CNN, has a great potential to make useful computer vision applications. Therefore this book is highly recommended to anyone who only has worked on CNN in computer vision area.
+
+
 ## Quality Engineering
 
 1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood
@@ -191,20 +212,14 @@ O'Reily [Link](http://shop.oreilly.com/product/0636920052289.do)
 
 ## Robotics
 
-1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
-
-Pre-Print [Link](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
-
-Amazon [Link](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
-
-Coursera [Link](https://www.coursera.org/specializations/modernrobotics)
-
-I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
-
-2. "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard and Dieter Fox
+1. "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard and Dieter Fox
 
 pdf [Link](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf)
 
 A great book about probabilistic methods in robotics, mostly focusing on state estimation and bayes filters. Therefore this book provides a solid foundation in understanding commonly used tracking filters such as Kalman filters, particle filters. The content also extends a bit futher to advanced modern concepts, such as mobile robot localistion and SLAM. 
 
 ## Computer Vision
+
+1. "Multiview Geometry in Computer Vision" by Richard Hartley and Andrew Zisserman
+
+pdf [Link](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf)
