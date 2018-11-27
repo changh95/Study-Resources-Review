@@ -64,6 +64,14 @@ edX|LinuxFoundationX|[Link](https://www.edx.org/course/introduction-to-linux)
 
 # Books read
 
+## Programming
+
+1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney
+
+O'Reily Website [Link](http://shop.oreilly.com/product/0636920023784.do)
+
+This book is essential for those who have just learned Python programming language, and is willing to learn data science in the future. A well-structured, clean data is key for a good data science practice, which this book provides a great introduction and practice samples using NumPy and Pandas libraries. This book also covers other libraries that helps in understanding the data and manipulating them, using Jupyter Notebook (IPython) and matplotlib for visualisation.
+
 ## Quality Engineering
 
 1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood
@@ -175,9 +183,11 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 
 # Books to be read
 
-## Programming
+## Machine Learning
 
+1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" -
 
+O'Reily [Link](http://shop.oreilly.com/product/0636920052289.do)
 
 ## Robotics
 
