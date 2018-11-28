@@ -47,18 +47,29 @@ Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
 
 A very well constructed introduction to Python programming, as well as to general programming languages. Since this is a proper university lecture content, it comprises of tutorials and homeworks. For anyone with previous programming experience, this course can be taken through very fast. You can still take this course without a previous programmning experience, but I recommend taking MATLAB tutorial first, because the MATLAB tutorial is superior in teaching the basics of programming thoroughly.
 
+3. "Introduction to C++" (Intermediate/Advanced not yet taken)
+
+Platform|Author|url
+--|--|--
+edX|Microsoft|[Link](https://www.edx.org/course/introduction-c-plus-plus-1)
+
+A detailed explanation of how C++ is run and how its basic grammar works. However, this course is relatively difficult to grasp compared to other programming courses taken - the content uses a lot of C++ terminologies without explaining it prior to using them, the videos comprise of two experts discussing a topic rather than trying to make the audience understand more clearer, most teaching is done via text, and there are not many examples to be followed simultaneously. The discussion forum and supports from the instructors seem to be inactive as well. Since this is the only C++ course that I took, I do not have a range of other courses to compare, but I find it difficult to recommend it to someone who wishes to learn C++. 
+
 4. (UNIX) Introduction to Linux
 
 Platform|Author|url
 --|--|--
 edX|LinuxFoundationX|[Link](https://www.edx.org/course/introduction-to-linux)
 
+## Machine Learning
 
-3.
-4.
-5.
-6.
-7.
+1. (PyTorch) Introduction to PyTorch
+
+Platform|Author|url
+--|--|--
+Udacity|Udacity & Facebook|[Link](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)
+
+I took this course as a part of Pytorch **Facebook Scholarship Challenge**. One of the most intuitive, entertaining and motivating course that I have ever taken! This course teaches abstract mathematics of machine learning, and goes through really fast, to lead the audience to actually get their hands on PyTorch. Each lectures are very short - like maximum 10 minutes of video, followed by pre-loaded Jupyter Notebook sessions and quizzes. The supports and discussion forums are very active - especially during the scholarship challenge, there were 20,000 active students who could help each other proactively.
 
 </br>
 
@@ -140,13 +151,7 @@ Probability theory - CS109 or Stats116
 
 ## Programming
 
-1. "Introduction/Intermediate/Advanced to C++"
-
-Platform|Author|url
---|--|--
-edX|Microsoft|[Link](https://www.edx.org/course/introduction-c-plus-plus-1)
-
-2. "Introduction to C++", 6.069 Jan 2011
+1. "Introduction to C++", 6.069 Jan 2011
 
 Platform|Author|url
 --|--|--
@@ -154,7 +159,7 @@ MIT OpenCourseware|Jesse Dunietz|[Link](https://ocw.mit.edu/courses/electrical-e
 
 Quite an old resource - may not cover C++11 or C++14. Need to check.
 
-3. "Introduction to C#"
+2. "Introduction to C#"
 
 Platform|Author|url
 --|--|--
