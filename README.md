@@ -75,7 +75,7 @@ I took this course as a part of Pytorch **Facebook Scholarship Challenge**. One 
 
 # Books read
 
-## Programming
+## Machine Learning
 
 1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney
 
@@ -83,7 +83,33 @@ O'Reily Website [Link](http://shop.oreilly.com/product/0636920023784.do)
 
 This book is essential for those who have just learned Python programming language, and is willing to learn data science in the future. A well-structured, clean data is key for a good data science practice, which this book provides a great introduction and practice samples using NumPy and Pandas libraries. This book also covers other libraries that helps in understanding the data and manipulating them, using Jupyter Notebook (IPython) and matplotlib for visualisation.
 
-## Robotics
+2. "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville
+
+Website [Link](https://www.deeplearningbook.org/)
+
+Generally, there are two types of opinions towards this book. The first is that this book is very informative and useful for anyone who wishes to study deep learning properly. The second is that this book has been recommended too much that it is almost cliche. Personally I cannot agree with these two statements anymore, because they are both correct. This book provides a very good overview of essential mathematics behind deep learning techniques. The concepts of techniques are very well explained in words. However, a good understanding of mathematics is required to fully understand the contents. For someone like me who comes from a non-computer-science background, I needed another entry-level book to follow.
+
+2. "Pattern Recognition and Machine Learning" by Christopher M. Bishop (Currently reading)
+
+pdf 2006 [Link](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+A very detailed explanation of the mathematics behind machine learning techniques. Unlike other popular deep learning books, this book does not focus on specific techniques or applications of deep learning, but rather, it attempts to cover as many machine learning techniques which is not restricted to deep learning. The pre-requisite knowledge is substantial, and a good focus is required to follow its content for a general student like me. Personally, I feel like a mathematics major should not find it too difficult to follow. Although I am only half-way through, I can tell for sure that this book is one of the most informative books out in the market.
+
+3. Chinese AI textbook for high school 
+
+News [Link](https://www.shine.cn/news/metro/1804293918/)
+
+I doubt there is a translated version out there... but I was able to see its content with a help from a Chinese lab mate. This book covers the history of machine learning and deep learning techniques, of which the explanation is arguably better than other textbooks or review papers out there. The textbook is very well structured, while being visually clear and self-explanatory, and is able to describe the machine learning techniques with only high school mathematics (e.g. vectors). The textbook shines where it explores into different applications of deep learning, which it is very effective in insipiring high school students to study deep learning in a specific field (e.g. NLP, vision).
+
+4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi
+
+The content of this book may be a bit old - it does not cover new methodologies like GAN that was introduced in 2015. The content of the book was very similar to other review papers out there. However, this book shines at where it needs to explain the mathematics - personally, the backpropagation section was very useful to me, as it explained the mathematical steps which can considerably long, but it explains very well with patience. The Korean translation version seems to over-translate some phrases, such as 'auto-encoder' into '자기부호화기', which in fact makes the understanding of the content harder.
+
+5. "딥러닝 첫걸음" & "신경망 첫걸음"
+
+Easy introduction to deep learning and neural networks. Only recommended if the reader is not comfortable in reading text in English. Otherwise, I recommended other books or courses to save time.
+
+## Robotics & Computer Vision
 
 1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
 
@@ -95,9 +121,7 @@ Coursera [Link](https://www.coursera.org/specializations/modernrobotics)
 
 I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
 
-## Computer Vision
-
-1. "Computer Vision - Algorithms and Application" - by Richard Szeliski
+2. "Computer Vision - Algorithms and Application" - by Richard Szeliski
 
 pdf [Link](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
 
@@ -111,8 +135,6 @@ A collection of computer vision / image processing algorithms! Despite convoluti
 Amazon [Link](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)
 
 Six Sigma is an engineering philosophy that focuses on achieving the outcome of any processes just as what the customer wants - in numeric measures, it aims to achieve 3.8 defects per million opportunities, by utilising well-established techniques that can be utilised in industry and potentially in research as well. **This book is like a bible to me**. The flow of content is very intuitive and easy to read, even for non process engineering specialists. The reader can fish out useful techniques from the book, and may attempt to apply directly to the current research. I have done this on both my bachelor's and master's thesis - I have used Ishikawa Diagram for cause analysis, and investigating engineering requirement of my system development using Quality Function Deployment. The book does not give details in industry standard, however, it gives a good start point in understanding the importance of quality in both industrial production and scientific research.
-
-2.
 
 </br>
 
@@ -214,6 +236,14 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Géron
 
 O'Reily [Link](http://shop.oreilly.com/product/0636920052289.do)
+
+2. "An Introduction to Statistical Learning - with applications in R" 
+
+[Link](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+
+3. "The Elements of Statistical Learning"
+
+[Link](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 ## Robotics
 
