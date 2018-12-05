@@ -13,7 +13,7 @@ But they may not necessarily be under these topics.
 
 
 * [Courses and MOOCs taken](#courses-and-moocs-taken)
-  * [Programming](##Programming)
+  * [Programming](##programming)
 * [Books read](#books-read)
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
