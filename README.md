@@ -4,7 +4,7 @@
 
 > There are lots of freely available resources out there (which is good), but it is often difficult to know exactly what resources will benefit you the most, based on your knowledge, skills and available time.
 
-> So here's a summary / reviews of some of the most popular MOOCs and books. Hope this helps!
+> So here's **a summary / reviews of some of the most popular MOOCs and books**. Hope this helps!
 
 </br>
 
