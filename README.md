@@ -1,5 +1,4 @@
 # Study Resource Review
--------------------------------------------------------------------------------------------------
 
 > Are you interested in Robotics, Computer Vision and Deep Learning?
 
@@ -22,7 +21,7 @@
 
 ## Programming
 
-1. (MATLAB) MATLAB Fundamentals
+1. (MATLAB) MATLAB Fundamentals :star::star::star::star::star:
 
 Platform|Author|url
 --|--|--
@@ -30,7 +29,7 @@ MATLAB|MathsWorks|[Link](https://www.mathworks.com/training-schedule/matlab-fund
 
 A great introduction to MATLAB programming. Through interactive web programming you will understand the basics of MATLAB programming, from handling variables, making tables, visualising data with simple graphs and charts. No pre-requisites are required for the course, however, you may need an academic license for MATLAB due to its cost (Free with academic license). The course is constructed to be completed in 2~3 days, but the content is quite boring so I took about 1-2 weeks. This is the only course I have taken for my master's thesis - with introduction to MATLAB programming, I soon integrated OpenCV onto MATLAB and did a computer vision related project.
 
-2. (MATLAB) Shervine Amidi's MATLAB tutorials
+2. (MATLAB) Shervine Amidi's MATLAB tutorials :star::star::star:
 
 Platform|Author|url
 --|--|--
@@ -38,7 +37,7 @@ Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/
 
 A MATLAB tutorial that will take maximum 1 hour even for a beginner. Only recommended for absolute beginners, or someone who needs a refresher in MATLAB after having not programmed for a long time.
 
-3. (Python) CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)
+3. (Python) CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18) :star::star::star::star:
 
 Platform|Author|url
 --|--|--
@@ -46,7 +45,7 @@ Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
 
 A very well constructed introduction to Python programming, as well as to general programming languages. Since this is a proper university lecture content, it comprises of tutorials and homeworks. For anyone with previous programming experience, this course can be taken through very fast. You can still take this course without a previous programmning experience, but I recommend taking MATLAB tutorial first, because the MATLAB tutorial is superior in teaching the basics of programming thoroughly.
 
-3. "Introduction to C++" (Intermediate/Advanced not yet taken)
+3. "Introduction to C++" (Intermediate/Advanced not yet taken) :star::star:
 
 Platform|Author|url
 --|--|--
@@ -62,7 +61,7 @@ edX|LinuxFoundationX|[Link](https://www.edx.org/course/introduction-to-linux)
 
 ## Machine Learning
 
-1. (PyTorch) Introduction to PyTorch
+1. (PyTorch) Introduction to PyTorch :star::star::star::star::star:
 
 Platform|Author|url
 --|--|--
@@ -76,62 +75,44 @@ I took this course as a part of Pytorch **Facebook Scholarship Challenge**. One 
 
 ## Machine Learning
 
-1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney
-
-[O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)
+1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney ([O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)) :star::star::star::star:
 
 This book is essential for those who have just learned Python programming language, and is willing to learn data science in the future. A well-structured, clean data is key for a good data science practice, which this book provides a great introduction and practice samples using NumPy and Pandas libraries. This book also covers other libraries that helps in understanding the data and manipulating them, using Jupyter Notebook (IPython) and matplotlib for visualisation.
 
-2. "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville
-
-[Website](https://www.deeplearningbook.org/)
+2. "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Website](https://www.deeplearningbook.org/)) :star::star::star::star::star:
 
 Generally, there are two types of opinions towards this book. The first is that this book is very informative and useful for anyone who wishes to study deep learning properly. The second is that this book has been recommended too much that it is almost cliche. Personally I cannot agree with these two statements anymore, because they are both correct. This book provides a very good overview of essential mathematics behind deep learning techniques. The concepts of techniques are very well explained in words. However, a good understanding of mathematics is required to fully understand the contents. For someone like me who comes from a non-computer-science background, I needed another entry-level book to follow.
 
-2. "Pattern Recognition and Machine Learning" by Christopher M. Bishop (Currently reading)
-
-[pdf 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+2. "Pattern Recognition and Machine Learning" by Christopher M. Bishop (Currently reading) ([pdf 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)) :star::star::star::star:
 
 A very detailed explanation of the mathematics behind machine learning techniques. Unlike other popular deep learning books, this book does not focus on specific techniques or applications of deep learning, but rather, it attempts to cover as many machine learning techniques which is not restricted to deep learning. The pre-requisite knowledge is substantial, and a good focus is required to follow its content for a general student like me. Personally, I feel like a mathematics major should not find it too difficult to follow. Although I am only half-way through, I can tell for sure that this book is one of the most informative books out in the market.
 
-3. Chinese AI textbook for high school 
-
-[Related News](https://www.shine.cn/news/metro/1804293918/)
+3. Chinese AI textbook for high school ([Related News](https://www.shine.cn/news/metro/1804293918/)) :star::star::star::star::star:
 
 I doubt there is a translated version out there... but I was able to see its content with a help from a Chinese lab mate. This book covers the history of machine learning and deep learning techniques, of which the explanation is arguably better than other textbooks or review papers out there. The textbook is very well structured, while being visually clear and self-explanatory, and is able to describe the machine learning techniques with only high school mathematics (e.g. vectors). The textbook shines where it explores into different applications of deep learning, which it is very effective in insipiring high school students to study deep learning in a specific field (e.g. NLP, vision).
 
-4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi
+4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi :star::star::star::star:
 
 The content of this book may be a bit old - it does not cover new methodologies like GAN that was introduced in 2015. The content of the book was very similar to other review papers out there. However, this book shines at where it needs to explain the mathematics - personally, the backpropagation section was very useful to me, as it explained the mathematical steps which can considerably long, but it explains very well with patience. The Korean translation version seems to over-translate some phrases, such as 'auto-encoder' into '자기부호화기', which in fact makes the understanding of the content harder.
 
-5. "딥러닝 첫걸음" & "신경망 첫걸음"
+5. "딥러닝 첫걸음" & "신경망 첫걸음" :star::star::star:
 
 Easy introduction to deep learning and neural networks. Only recommended if the reader is not comfortable in reading text in English. Otherwise, I recommended other books or courses to save time.
 
 ## Robotics & Computer Vision
 
-1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park
-
-[Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
-
-[Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300)
-
-[Coursera](https://www.coursera.org/specializations/modernrobotics)
+1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300) [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
 
 I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
 
-2. "Computer Vision - Algorithms and Application" - by Richard Szeliski
-
-[pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+2. "Computer Vision - Algorithms and Application" - by Richard Szeliski ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)) :star::star::star::star::star:
 
 A collection of computer vision / image processing algorithms! Despite convolutional neural network is getting the spotlight in academia and industry in computer vision field nowadays, the fundamental knowledge and skills in image processing and general computer vision techniques must not be underestimated. Such techniques include stereo-correspondences, image stitching, feature extraction, structure from motion, and 3D reconstruction. These techinques, together with CNN, has a great potential to make useful computer vision applications. Therefore this book is highly recommended to anyone who only has worked on CNN in computer vision area.
 
 
 ## Quality Engineering
 
-1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood
-
-[Amazon](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)
+1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood ([Amazon](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)) :star::star::star::star::star:
 
 Six Sigma is an engineering philosophy that focuses on achieving the outcome of any processes just as what the customer wants - in numeric measures, it aims to achieve 3.8 defects per million opportunities, by utilising well-established techniques that can be utilised in industry and potentially in research as well. **This book is like a bible to me**. The flow of content is very intuitive and easy to read, even for non process engineering specialists. The reader can fish out useful techniques from the book, and may attempt to apply directly to the current research. I have done this on both my bachelor's and master's thesis - I have used Ishikawa Diagram for cause analysis, and investigating engineering requirement of my system development using Quality Function Deployment. The book does not give details in industry standard, however, it gives a good start point in understanding the importance of quality in both industrial production and scientific research.
 
