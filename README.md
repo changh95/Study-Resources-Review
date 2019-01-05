@@ -1,16 +1,15 @@
 # Study Resource Review
+-------------------------------------------------------------------------------------------------
 
-This respository contains:
-* Personal reviews of popular MOOCs and books
-* Personal study plans
+> Are you interested in Robotics, Computer Vision and Deep Learning?
 
-The choices of MOOCs and books are based on my interests: Computer Vision, Robotics, Deep Learning.
-But they may not necessarily be under these topics.
+> There are lots of freely available resources out there (which is good), but it is often difficult to know exactly what resources will benefit you the most, based on your knowledge, skills and available time.
+
+> So here's a summary / reviews of some of the most popular MOOCs and books. Hope this helps!
 
 </br>
 
 ## Table of Contents
-
 
 * [Courses and MOOCs taken](#courses-and-moocs-taken)
 * [Books read](#books-read)
@@ -138,7 +137,7 @@ Six Sigma is an engineering philosophy that focuses on achieving the outcome of 
 
 </br>
 
-# Courses / MOOCS to be taken
+# Courses and MOOCS to be taken
 
 ## Mathematics
 
