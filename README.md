@@ -91,7 +91,7 @@ A very detailed explanation of the mathematics behind machine learning technique
 
 I doubt there is a translated version out there... but I was able to see its content with a help from a Chinese lab mate. This book covers the history of machine learning and deep learning techniques, of which the explanation is arguably better than other textbooks or review papers out there. The textbook is very well structured, while being visually clear and self-explanatory, and is able to describe the machine learning techniques with only high school mathematics (e.g. vectors). The textbook shines where it explores into different applications of deep learning, which it is very effective in insipiring high school students to study deep learning in a specific field (e.g. NLP, vision).
 
-4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi :star::star::star::star:
+4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
 
 The content of this book may be a bit old - it does not cover new methodologies like GAN that was introduced in 2015. The content of the book was very similar to other review papers out there. However, this book shines at where it needs to explain the mathematics - personally, the backpropagation section was very useful to me, as it explained the mathematical steps which can considerably long, but it explains very well with patience. The Korean translation version seems to over-translate some phrases, such as 'auto-encoder' into '자기부호화기', which in fact makes the understanding of the content harder.
 
@@ -101,7 +101,7 @@ Easy introduction to deep learning and neural networks. Only recommended if the 
 
 ## Robotics & Computer Vision
 
-1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf) [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300) [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
+1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf), [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300), [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
 
 I've only read this book on Kinematics section (Chapter 4-6), therefore remains in 'books to be read' section. What I like most about this book is that it uses a modern notations and representations of the mathematics required for it. This aspect of the book allows a easy and fast understanding of the subject - personally, I found it more intuitive and easier to understand than the textbook written by Saeed Niku. However, the downside may be the mismatch of the notations and representations from old books or journals.
 
