@@ -6,6 +6,8 @@
 
 > So here's **a summary / reviews of some of the most popular MOOCs and books**. Hope this helps!
 
+For each resource, a brief summary, pros/cons, and my personal comments are listed.
+
 </br>
 
 ## Table of Contents
