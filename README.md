@@ -21,16 +21,17 @@
 
 ## Programming
 
-1. MATLAB Fundamentals ([Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)) :star::star::star::star::star:
+1. **MATLAB Fundamentals** ([Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)) :star::star::star::star::star:
 
 Language|Platform|Author
 --|--|--
 MATLAB|MATLAB|MathsWorks
 
+Best introduction to MATLAB, as well as into programming in general. Personally highly recommended.
+
 <details><summary>Expand</summary>
 <p>
 
-**TL;DR** : Best introduction to MATLAB, as well as into programming in general. Personally highly recommended.
 
 Pros:
   - You'll understand the basics of MATLAB + programming thoroughly. This is from handling variables, making tables, visualising data with simple graphs and charts.
@@ -49,16 +50,16 @@ My comments:
 </details>
 </br>
 
-2. Shervine Amidi's MATLAB tutorials ([Link](https://stanford.edu/~shervine/teaching/common/matlab-start)) :star::star::star:
+2. **Shervine Amidi's MATLAB tutorials** ([Link](https://stanford.edu/~shervine/teaching/common/matlab-start)) :star::star::star:
 
 Language|Platform|Author
 --|--|--
 MATLAB|Github|Shervine Amidi (Stanford)
 
+You have 1 hour to learn MATLAB, this is the course (You won't learn it thoroughly though) If you have any prior programming experience and wish to learn MATLAB, also, take this course. Also, this course is **free**!
+
 <details><summary>Expand</summary>
 <p>
-
-**TL;DR** : Take this course if you need to learn MATLAB in 1 hour. You won't learn it thoroughly though. If you have prior programming experience and wish to learn MATLAB, also, take this course. Also, this course is free!
 
 Pros:
   - Only covers important topics - so it doesn't waste your time.
@@ -77,17 +78,17 @@ My comments:
 </details>
 </br>
 
-3. CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)([Link](https://www.cs.cmu.edu/~112/)) :star::star::star::star:
+3. **CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)**([Link](https://www.cs.cmu.edu/~112/)) :star::star::star::star:
 
 Language|Platform|Author
 --|--|--
 Python|Carnegie Mellon University|  |
 
+Highly recommended to learn Python language!
+
 <details><summary>Expand</summary>
 <p>
-
-**TL;DR** : A well constructed introduction to Python programming, and programming in general! Highly recommended.
-
+  
 Pros:
   - Freely available! (Although the video capture of the lecture is not available)
   - Tutorials and homeworks are there to boost your skills.
@@ -111,11 +112,11 @@ Language|Platform|Author
 --|--|--
 C++|edX|Microsoft|
 
+I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
+
 <details><summary>Expand</summary>
 <p>
-
-**TL;DR** : I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is HARD.
-
+  
 Pros:
   - Experts from Microsoft talks about C++.
 
@@ -144,10 +145,10 @@ Content|Platform|Author
 --|--|--
 PyTorch|Udacity|Udacity & Facebook|
 
+The **EASIEST** PyTorch + Deep learning course ever!
+
 <details><summary>Expand</summary>
 <p>
-
-**TL;DR** : The **EASIEST** PyTorch + Deep learning course ever!
 
 Pros:
   - Easy explanation of difficult concepts.
