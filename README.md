@@ -37,16 +37,16 @@ MATLAB|MATLAB|MathsWorks
 <p>
 
 
-Pros:
+**Pros:**
   - You'll understand the basics of MATLAB + programming thoroughly. This is from handling variables, making tables, visualising data with simple graphs and charts.
   - Short course time (2~3 days)
   - No pre-requisites required
 
-Cons:
+**Cons:**
   - Contents can get quite boring.
   - You need an academic license to take this course freely. 
 
-My comments:
+**My comments:**
   - It's boring so I took 1-2 weeks to complete the course.
   - After this course, I soon integrated OpenCV with MATLAB and then carried out all experiments needed for my master's thesis.
 
@@ -65,17 +65,17 @@ MATLAB|Github|Shervine Amidi (Stanford)
 <details><summary>Expand</summary>
 <p>
 
-Pros:
+**Pros:**
   - Only covers important topics - so it doesn't waste your time.
   - Takes 1-2 hours to finish the entire course.
   - No pre-requisites required
   - Freely available!
 
-Cons:
+**Cons:**
   - Only covers important topics - if you are a beginner, you won't be able to code straight after this course.
   - You need an academic license to take this course freely. 
 
-My comments:
+**My comments:**
   - I say if you need to refresh yourself a MATLAB coding knowledge, this is perfect for you.
 
 </p>
@@ -93,17 +93,17 @@ Python|Carnegie Mellon University|  |
 <details><summary>Expand</summary>
 <p>
   
-Pros:
+**Pros:**
   - Freely available! (Although the video capture of the lecture is not available)
   - Tutorials and homeworks are there to boost your skills.
   - No pre-requisites required
 
-Cons:
+**Cons:**
   - Video capture of the lecture is not available.
   - If you follow the course, you'll be guided to use Pyzo for the IDE. There are better IDEs out there (Personal opinion). 
   - Lack of interactive tutorial.
  
-My comments:
+**My comments:**
   - I say if you are an absolute beginner in programming, even if you are trying to learn Python, go take the MATLAB tutorial by MathsWorks. This is because MATLAB tutorial teaches the basics of programming more thoroughly than this tutorial (personal opinion). It will be much easier and faster going through this Python lecture if you understand the basics of programming, so it will be benefical in overall time efficiency.
 
 </p>
@@ -121,13 +121,13 @@ C++|edX|Microsoft|
 <details><summary>Expand</summary>
 <p>
   
-Pros:
+**Pros:**
   - Experts from Microsoft talks about C++.
 
-Cons:
+**Cons:**
   - Experts talk about C++ in their own language, without thoroughly explaining them to the audience.
  
-My comments:
+**My comments:**
   - Tell me lots of cool-sounding C++ terminologies, and then **DON'T** explain it! That's what this course does exactly. I think the content is actually very useful, but only to those who can understand those terminologies. Many other audience seem to feel the same way as me - the audience forum is pretty much dead, especially after the 1st or the 2nd lecture. It's the only C++ course I took so far, so I cannot judge yet how good the content actually is... but definitely won't recommend it to someone who wishes to learn C++.
 
 </p>
@@ -154,15 +154,15 @@ PyTorch|Udacity|Udacity & Facebook|
 <details><summary>Expand</summary>
 <p>
 
-Pros:
+**Pros:**
   - Easy explanation of difficult concepts.
   - Each video lecture being very short - easy to keep up!
   - Covers everything from understanding the basic concepts to actually building your own network architecture!
 
-Cons:
+**Cons:**
   - You need to know how to do Python, Numpy and Pandas.
  
-My comments:
+**My comments:**
   - I took this course as a part of PyTorch **Facebook Scholarschip Challenge**. This course focuses on maximising your activity in taking this course - via interactive questions, interactive programming questions, and detailed jupyter notebook that can be used as exercises or notes. **I plan to make the notes for this course - Coming sooooon!**
 
 </p>
