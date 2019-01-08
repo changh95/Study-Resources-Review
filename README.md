@@ -27,7 +27,12 @@ Platform|Author|url
 --|--|--
 MATLAB|MathsWorks|[Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)
 
+<details><summary>Expand</summary>
+<p>
 A great introduction to MATLAB programming. Through interactive web programming you will understand the basics of MATLAB programming, from handling variables, making tables, visualising data with simple graphs and charts. No pre-requisites are required for the course, however, you may need an academic license for MATLAB due to its cost (Free with academic license). The course is constructed to be completed in 2~3 days, but the content is quite boring so I took about 1-2 weeks. This is the only course I have taken for my master's thesis - with introduction to MATLAB programming, I soon integrated OpenCV onto MATLAB and did a computer vision related project.
+
+</p>
+</details>
 
 2. (MATLAB) Shervine Amidi's MATLAB tutorials :star::star::star:
 
