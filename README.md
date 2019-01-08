@@ -21,11 +21,11 @@
 
 ## Programming
 
-1. (MATLAB) MATLAB Fundamentals :star::star::star::star::star:
+1. MATLAB Fundamentals :star::star::star::star::star:
 
-Platform|Author|url
---|--|--
-MATLAB|MathsWorks|[Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)
+Language|Platform|Author|url
+--|--|--|--
+MATLAB|MATLAB|MathsWorks|[Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)
 
 <details><summary>Expand</summary>
 <p>
@@ -35,27 +35,30 @@ A great introduction to MATLAB programming. Through interactive web programming 
 </p>
 </details>
 </br>
-2. (MATLAB) Shervine Amidi's MATLAB tutorials :star::star::star:
 
-Platform|Author|url
---|--|--
-Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/common/matlab-start)
+2. Shervine Amidi's MATLAB tutorials :star::star::star:
+
+Language|Platform|Author|url
+--|--|--|--
+MATLAB|Github|Shervine Amidi (Stanford)|[Link](https://stanford.edu/~shervine/teaching/common/matlab-start)
 
 A MATLAB tutorial that will take maximum 1 hour even for a beginner. Only recommended for absolute beginners, or someone who needs a refresher in MATLAB after having not programmed for a long time.
 </br>
-3. (Python) CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18) :star::star::star::star:
 
-Platform|Author|url
---|--|--
-Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
+3. CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18) :star::star::star::star:
+
+Language|Platform|Author|url
+--|--|--|--
+Python|Carnegie Mellon University|  |[Link](https://www.cs.cmu.edu/~112/)
 
 A very well constructed introduction to Python programming, as well as to general programming languages. Since this is a proper university lecture content, it comprises of tutorials and homeworks. For anyone with previous programming experience, this course can be taken through very fast. You can still take this course without a previous programmning experience, but I recommend taking MATLAB tutorial first, because the MATLAB tutorial is superior in teaching the basics of programming thoroughly.
 </br>
+
 3. "Introduction to C++" (Intermediate/Advanced not yet taken) :star::star:
 
-Platform|Author|url
---|--|--
-edX|Microsoft|[Link](https://www.edx.org/course/introduction-c-plus-plus-1)
+Language|Platform|Author|url
+--|--|--|--
+C++|edX|Microsoft|[Link](https://www.edx.org/course/introduction-c-plus-plus-1)
 
 A detailed explanation of how C++ is run and how its basic grammar works. However, this course is relatively difficult to grasp compared to other programming courses taken - the content uses a lot of C++ terminologies without explaining it prior to using them, the videos comprise of two experts discussing a topic rather than trying to make the audience understand more clearer, most teaching is done via text, and there are not many examples to be followed simultaneously. The discussion forum and supports from the instructors seem to be inactive as well. Since this is the only C++ course that I took, I do not have a range of other courses to compare, but I find it difficult to recommend it to someone who wishes to learn C++. 
 </br>
