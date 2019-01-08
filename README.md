@@ -218,7 +218,7 @@ I doubt there is a translated version out there... but I was able to see its con
 </details>
 </br>
 
-4. "그림과 수식으로 배우는 통통 딥러닝" by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
+4. "イラストで学ぶ ディープラーニング" ("그림과 수식으로 배우는 통통 딥러닝") by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
 
 <details><summary>Expand</summary>
 <p>
