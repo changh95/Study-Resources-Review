@@ -27,7 +27,7 @@ Language|Platform|Author
 --|--|--
 MATLAB|MATLAB|MathsWorks
 
-Best introduction to MATLAB, as well as into programming in general. Personally highly recommended.
+>Best introduction to MATLAB, as well as into programming in general. Personally highly recommended.
 
 <details><summary>Expand</summary>
 <p>
@@ -56,7 +56,7 @@ Language|Platform|Author
 --|--|--
 MATLAB|Github|Shervine Amidi (Stanford)
 
-You have 1 hour to learn MATLAB, this is the course (You won't learn it thoroughly though) If you have any prior programming experience and wish to learn MATLAB, also, take this course. Also, this course is **free**!
+>You have 1 hour to learn MATLAB, this is the course (You won't learn it thoroughly though) If you have any prior programming experience and wish to learn MATLAB, also, take this course. Also, this course is **free**!
 
 <details><summary>Expand</summary>
 <p>
@@ -84,7 +84,7 @@ Language|Platform|Author
 --|--|--
 Python|Carnegie Mellon University|  |
 
-Highly recommended to learn Python language!
+>Highly recommended to learn Python language!
 
 <details><summary>Expand</summary>
 <p>
@@ -112,7 +112,7 @@ Language|Platform|Author
 --|--|--
 C++|edX|Microsoft|
 
-I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
+>I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
 
 <details><summary>Expand</summary>
 <p>
@@ -145,7 +145,7 @@ Content|Platform|Author
 --|--|--
 PyTorch|Udacity|Udacity & Facebook|
 
-The **EASIEST** PyTorch + Deep learning course ever!
+>The **EASIEST** PyTorch + Deep learning course ever!
 
 <details><summary>Expand</summary>
 <p>
