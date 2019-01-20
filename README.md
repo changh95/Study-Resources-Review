@@ -152,7 +152,7 @@ UNIX|edX|LinuxFoundationX
 
 <br>
 
-1. Introduction to PyTorch ([Link](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)) :star::star::star::star::star:
+1. **Introduction to PyTorch** ([Link](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)) :star::star::star::star::star:
 
 Content|Platform|Author
 --|--|--
@@ -184,7 +184,7 @@ PyTorch|Udacity|Udacity & Facebook|
 
 <br>
 
-1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney ([O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)) :star::star::star::star:
+1. **"Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython"** by William McKinney ([O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)) :star::star::star::star:
 
 > A good book to learn NumPy, Pandas, Jupyter Notebook (IPython), matplotlib. If you prefer books over online MOOCS, then I say this is the one to go for.
 
@@ -197,7 +197,7 @@ This book is essential for those who have just learned Python programming langua
 </details>
 </br>
 
-2. "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Website](https://www.deeplearningbook.org/)) :star::star::star::star::star:
+2. **"Deep Learning"** by Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Website](https://www.deeplearningbook.org/)) :star::star::star::star::star:
 
 > The level of maths in this book is controversially hard. If you don't have much maths background, then go study maths first. If you are okay with the maths, then this book is **highly recommended**. 
 
@@ -211,7 +211,7 @@ Generally, there are two types of opinions towards this book. The first is that 
 </br>
 
 
-2. "Pattern Recognition and Machine Learning" by Christopher M. Bishop (Currently reading) ([pdf 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)) :star::star::star::star:
+2. **"Pattern Recognition and Machine Learning"** by Christopher M. Bishop (Currently reading) ([pdf 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)) :star::star::star::star:
 
 > I'll say this book is only recommended for researchers in machine learning field. It is quite maths-heavy, as it is intended to be so.  But with this book only, you can still cover most of maths needed for classical machine learning methods. 
 
@@ -224,7 +224,7 @@ A very detailed explanation of the mathematics behind machine learning technique
 </br>
 
 
-3. Chinese AI textbook for high school ([Related News](https://www.shine.cn/news/metro/1804293918/)) :star::star::star::star::star:
+3. **Chinese AI textbook for high school** ([Related News](https://www.shine.cn/news/metro/1804293918/)) :star::star::star::star::star:
 
 > If you can get your hands on it + if you can read mandarin, then this is the best introduction for deep learning. 
 
@@ -237,7 +237,7 @@ I doubt there is a translated version out there... but I was able to see its con
 </details>
 </br>
 
-4. "イラストで学ぶ ディープラーニング" ("그림과 수식으로 배우는 통통 딥러닝") by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
+4. **"イラストで学ぶ ディープラーニング"** ("그림과 수식으로 배우는 통통 딥러닝") by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
 
 > The contents are a bit outdated, but it can still serve as a not-too-bad introduction to deep learning. It is short - so it will save time if anyone here is after that.
 
@@ -250,7 +250,7 @@ The content of this book may be a bit old - it does not cover new methodologies 
 </details>
 </br>
 
-5. "딥러닝 첫걸음" & "신경망 첫걸음" :star::star::star:
+5. **"딥러닝 첫걸음" & "신경망 첫걸음"** :star::star::star:
 
 > If you feel uncomfortable reading texts in English (or rather, you only find comfortable reading in Korean), then this book may be a good introduction to deep learning.
 
@@ -269,7 +269,7 @@ Easy introduction to deep learning and neural networks. Only recommended if the 
 
 <br>
 
-1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf), [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300), [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
+1. **"Modern Robotics: Mechanics, Planning and Control"** by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf), [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300), [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
 
 <details><summary>Expand</summary>
 <p>
@@ -280,7 +280,7 @@ I've only read this book on Kinematics section (Chapter 4-6), therefore remains 
 </details>
 </br>
 
-2. "Computer Vision - Algorithms and Application" - by Richard Szeliski ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)) :star::star::star::star::star:
+2. **"Computer Vision - Algorithms and Application"** - by Richard Szeliski ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)) :star::star::star::star::star:
 
 <details><summary>Expand</summary>
 <p>
@@ -297,7 +297,7 @@ A collection of computer vision / image processing algorithms! Despite convoluti
 
 <br>
 
-1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood ([Amazon](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)) :star::star::star::star::star:
+1. **"Six Sigma and the Quality Toolbox"** by John Bicheno and Philip Catherwood ([Amazon](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)) :star::star::star::star::star:
 
 <details><summary>Expand</summary>
 <p>
@@ -317,7 +317,7 @@ Six Sigma is an engineering philosophy that focuses on achieving the outcome of 
 
 <br>
 
-1. "Mathematics for Machine Learning : Linear Algebra"
+1. **"Mathematics for Machine Learning : Linear Algebra"**
 
 Platform|Author|url
 --|--|--
@@ -332,7 +332,7 @@ Recommended by many students at Imperial College and StackOverflow. Apparently t
 </details>
 </br>
 
-2. "Probabilistic Systems Analysis and Applied Probability", 6.041 / 6.431 Fall 2010
+2. **"Probabilistic Systems Analysis and Applied Probability"**, 6.041 / 6.431 Fall 2010
 
 Platform|Author|url
 --|--|--
@@ -347,7 +347,7 @@ Recommended by some Korean deep learning researchers. The course seems a bit old
 </details>
 </br>
 
-3. Calculus, Statistics and Algebra by "Professor Leonard"
+3. **Calculus, Statistics and Algebra** by "Professor Leonard"
 
 Platform|Author|url
 --|--|--
@@ -373,7 +373,7 @@ Probability theory - CS109 or Stats116
 
 <br>
 
-1. "Introduction to C++", 6.069 Jan 2011
+1. **"Introduction to C++"**, 6.069 Jan 2011
 
 Platform|Author|url
 --|--|--
@@ -388,7 +388,7 @@ Quite an old resource - may not cover C++11 or C++14. Need to check.
 </details>
 </br>
 
-2. "Introduction to C#"
+2. **"Introduction to C#"**
 
 Platform|Author|url
 --|--|--
@@ -408,7 +408,7 @@ May need to be complimented with learning Unity.
 
 <br>
 
-1. 'Machine Learning" , "Deep Learning"
+1. **'Machine Learning"** , **"Deep Learning"**
 
 Platform|Author|url
 --|--|--
@@ -421,7 +421,7 @@ Coursera|Andrew Ng (Stanford)|[Link](https://ko.coursera.org/learn/machine-learn
 </details>
 </br>
 
-2. CS231n Spring 2018
+2. **CS231n** Spring 2018
 
 Platform|Author|url
 --|--|--
@@ -434,7 +434,7 @@ Stanford|Fei Fei Li|[Link](http://cs231n.stanford.edu/)
 </details>
 </br>
 
-3. CS229
+3. **CS229**
 
 Platform|Author|url
 --|--|--
@@ -453,7 +453,7 @@ Stanford|Ron Dror, Andrew Ng|[Link](http://cs229.stanford.edu/)
 
 <br>
 
-1. CS223-A
+1. **CS223-A**
 
 Platform|Author|url
 --|--|--
@@ -472,7 +472,7 @@ Stanford|Jeannette Bohg|[Link](https://cs.stanford.edu/groups/manips/teaching/cs
 
 <br>
 
-1. CS223-B
+1. **CS223-B**
 
 Platform|Author|url
 --|--|--
@@ -493,7 +493,7 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 
 <br>
 
-1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Géron ([O'Reily Website](http://shop.oreilly.com/product/0636920052289.do))
+1. **"Hands-on Machine Learning with Scikit-Learn and TensorFlow"** - Aurélien Géron ([O'Reily Website](http://shop.oreilly.com/product/0636920052289.do))
 
 <details><summary>Expand</summary>
 <p>
@@ -502,7 +502,7 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 </details>
 </br>
 
-2. "An Introduction to Statistical Learning - with applications in R" ([pdf](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf))
+2. **"An Introduction to Statistical Learning - with applications in R"** ([pdf](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf))
 
 <details><summary>Expand</summary>
 <p>
@@ -511,7 +511,7 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 </details>
 </br>
 
-3. "The Elements of Statistical Learning" ([pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf))
+3. **"The Elements of Statistical Learning"** ([pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf))
 
 <details><summary>Expand</summary>
 <p>
@@ -526,7 +526,7 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 
 <br>
 
-1. "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard and Dieter Fox ([pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf))
+1. **"Probabilistic Robotics"** by Sebastian Thrun, Wolfram Burgard and Dieter Fox ([pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf))
 
 <details><summary>Expand</summary>
 <p>
@@ -541,7 +541,7 @@ A great book about probabilistic methods in robotics, mostly focusing on state e
 
 <br>
 
-1. "Multiview Geometry in Computer Vision" by Richard Hartley and Andrew Zisserman ([pdf](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf))
+1. **"Multiview Geometry in Computer Vision"** by Richard Hartley and Andrew Zisserman ([pdf](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf))
 
 <details><summary>Expand</summary>
 <p>
