@@ -1,5 +1,7 @@
 # Study Resource Review
 
+<br>
+
 > Are you interested in Robotics, Computer Vision and Deep Learning?
 
 > There are lots of freely available resources out there (which is good), but it is often difficult to know exactly what resources will benefit you the most, based on your knowledge, skills and available time.
@@ -14,12 +16,12 @@
 
 ## Table of Contents
 
+<br>
+
 * [Courses and MOOCs taken](#courses-and-moocs-taken)
 * [Books read](#books-read)
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
-
-<br>
 
 <br>
 
@@ -144,7 +146,11 @@ Language|Platform|Author
 --|--|--
 UNIX|edX|LinuxFoundationX
 
+<br>
+
 ## Machine Learning
+
+<br>
 
 1. Introduction to PyTorch ([Link](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)) :star::star::star::star::star:
 
@@ -175,6 +181,8 @@ PyTorch|Udacity|Udacity & Facebook|
 # Books read
 
 ## Machine Learning
+
+<br>
 
 1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney ([O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)) :star::star::star::star:
 
@@ -255,9 +263,11 @@ Easy introduction to deep learning and neural networks. Only recommended if the 
 </details>
 </br>
 
-
+<br>
 
 ## Robotics & Computer Vision
+
+<br>
 
 1. "Modern Robotics: Mechanics, Planning and Control" by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf), [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300), [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
 
@@ -281,7 +291,11 @@ A collection of computer vision / image processing algorithms! Despite convoluti
 </details>
 </br>
 
+<br>
+
 ## Quality Engineering
+
+<br>
 
 1. "Six Sigma and the Quality Toolbox" by John Bicheno and Philip Catherwood ([Amazon](https://www.amazon.co.uk/Six-SIGMA-Quality-Toolbox-Manufacturing/dp/0954124421/ref=asap_bc?ie=UTF8)) :star::star::star::star::star:
 
@@ -301,13 +315,22 @@ Six Sigma is an engineering philosophy that focuses on achieving the outcome of 
 
 ## Mathematics
 
+<br>
+
 1. "Mathematics for Machine Learning : Linear Algebra"
 
 Platform|Author|url
 --|--|--
 Coursera|Imperial College London|[Link](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
+<details><summary>Expand</summary>
+<p>
+
 Recommended by many students at Imperial College and StackOverflow. Apparently this course is perfect to harden the knowledge of linear algebra.
+
+</p>
+</details>
+</br>
 
 2. "Probabilistic Systems Analysis and Applied Probability", 6.041 / 6.431 Fall 2010
 
@@ -315,7 +338,14 @@ Platform|Author|url
 --|--|--
 MIT OpenCourseware|Prof. John Tsitsiklis|[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 
+<details><summary>Expand</summary>
+<p>
+
 Recommended by some Korean deep learning researchers. The course seems a bit old - may be replaced by other new courses if better ones are found.
+
+</p>
+</details>
+</br>
 
 3. Calculus, Statistics and Algebra by "Professor Leonard"
 
@@ -323,14 +353,25 @@ Platform|Author|url
 --|--|--
 Youtube|Professor Leonard|[Link](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
 
+<details><summary>Expand</summary>
+<p>
+  
 Video playlists made by a youtuber. Very good at explanation, however I'm not yet sure if these can be useful for machine learning.
+
+</p>
+</details>
+</br>
 
 Other sources: 
 Stanford:
 Linear algebra - Math104, Math 113, CS205
 Probability theory - CS109 or Stats116
 
+<br>
+
 ## Programming
+
+<br>
 
 1. "Introduction to C++", 6.069 Jan 2011
 
@@ -338,7 +379,14 @@ Platform|Author|url
 --|--|--
 MIT OpenCourseware|Jesse Dunietz|[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
 
+<details><summary>Expand</summary>
+<p>
+  
 Quite an old resource - may not cover C++11 or C++14. Need to check.
+
+</p>
+</details>
+</br>
 
 2. "Introduction to C#"
 
@@ -346,10 +394,19 @@ Platform|Author|url
 --|--|--
 edX|Microsoft|[Link](https://www.edx.org/course/introduction-to-c-sharp-1)
 
+<details><summary>Expand</summary>
+<p>
+  
 May need to be complimented with learning Unity.
+</p>
+</details>
+</br>
 
+<br>
 
 ## Machine Learning
+
+<br>
 
 1. 'Machine Learning" , "Deep Learning"
 
@@ -357,11 +414,25 @@ Platform|Author|url
 --|--|--
 Coursera|Andrew Ng (Stanford)|[Link](https://ko.coursera.org/learn/machine-learning)
 
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
 2. CS231n Spring 2018
 
 Platform|Author|url
 --|--|--
 Stanford|Fei Fei Li|[Link](http://cs231n.stanford.edu/)
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
 
 3. CS229
 
@@ -369,7 +440,18 @@ Platform|Author|url
 --|--|--
 Stanford|Ron Dror, Andrew Ng|[Link](http://cs229.stanford.edu/)
 
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+<br>
+
 ## Robotics
+
+<br>
 
 1. CS223-A
 
@@ -377,7 +459,18 @@ Platform|Author|url
 --|--|--
 Stanford|Jeannette Bohg|[Link](https://cs.stanford.edu/groups/manips/teaching/cs223a/)
 
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+<br>
+
 ## Computer Vision
+
+<br>
 
 1. CS223-B
 
@@ -385,25 +478,74 @@ Platform|Author|url
 --|--|--
 Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.html)
 
+<details><summary>Expand</summary>
+<p>
 
+</p>
+</details>
 </br>
+
+<br>
 
 # Books to be read
 
 ## Machine Learning
 
+<br>
+
 1. "Hands-on Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Géron ([O'Reily Website](http://shop.oreilly.com/product/0636920052289.do))
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
 
 2. "An Introduction to Statistical Learning - with applications in R" ([pdf](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf))
 
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
 3. "The Elements of Statistical Learning" ([pdf](https://web.stanford.edu/~hastie/Papers/ESLII.pdf))
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+<br>
 
 ## Robotics
 
+<br>
+
 1. "Probabilistic Robotics" by Sebastian Thrun, Wolfram Burgard and Dieter Fox ([pdf](https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf))
 
+<details><summary>Expand</summary>
+<p>
 A great book about probabilistic methods in robotics, mostly focusing on state estimation and bayes filters. Therefore this book provides a solid foundation in understanding commonly used tracking filters such as Kalman filters, particle filters. The content also extends a bit futher to advanced modern concepts, such as mobile robot localistion and SLAM. 
+</p>
+</details>
+</br>
+
+<br>
 
 ## Computer Vision
 
+<br>
+
 1. "Multiview Geometry in Computer Vision" by Richard Hartley and Andrew Zisserman ([pdf](http://cvrs.whu.edu.cn/downloads/ebooks/Multiple%20View%20Geometry%20in%20Computer%20Vision%20(Second%20Edition).pdf))
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
