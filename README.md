@@ -19,11 +19,15 @@
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
 
-------------------------------------------------------------------------------------------------
+<br>
+
+<br>
 
 # Courses and MOOCs taken
 
 ## Programming
+
+<br>
 
 1. **MATLAB Fundamentals** ([Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)) :star::star::star::star::star:
 
@@ -139,7 +143,6 @@ C++|edX|Microsoft|
 Language|Platform|Author
 --|--|--
 UNIX|edX|LinuxFoundationX
-</br>
 
 ## Machine Learning
 
@@ -175,6 +178,8 @@ PyTorch|Udacity|Udacity & Facebook|
 
 1. "Python for Data Analysis - Data Wrangling with Pandas, NumPy and IPython" by William McKinney ([O'Reily Website](http://shop.oreilly.com/product/0636920023784.do)) :star::star::star::star:
 
+> A good book to learn NumPy, Pandas, Jupyter Notebook (IPython), matplotlib. If you prefer books over online MOOCS, then I say this is the one to go for.
+
 <details><summary>Expand</summary>
 <p>
 
@@ -185,6 +190,8 @@ This book is essential for those who have just learned Python programming langua
 </br>
 
 2. "Deep Learning" by Ian Goodfellow, Yoshua Bengio and Aaron Courville ([Website](https://www.deeplearningbook.org/)) :star::star::star::star::star:
+
+> The level of maths in this book is controversially hard. If you don't have much maths background, then go study maths first. If you are okay with the maths, then this book is **highly recommended**. 
 
 <details><summary>Expand</summary>
 <p>
@@ -198,6 +205,8 @@ Generally, there are two types of opinions towards this book. The first is that 
 
 2. "Pattern Recognition and Machine Learning" by Christopher M. Bishop (Currently reading) ([pdf 2006](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)) :star::star::star::star:
 
+> I'll say this book is only recommended for researchers in machine learning field. It is quite maths-heavy, as it is intended to be so.  But with this book only, you can still cover most of maths needed for classical machine learning methods. 
+
 <details><summary>Expand</summary>
 <p>
 
@@ -208,6 +217,8 @@ A very detailed explanation of the mathematics behind machine learning technique
 
 
 3. Chinese AI textbook for high school ([Related News](https://www.shine.cn/news/metro/1804293918/)) :star::star::star::star::star:
+
+> If you can get your hands on it + if you can read mandarin, then this is the best introduction for deep learning. 
 
 <details><summary>Expand</summary>
 <p>
@@ -220,6 +231,8 @@ I doubt there is a translated version out there... but I was able to see its con
 
 4. "イラストで学ぶ ディープラーニング" ("그림과 수식으로 배우는 통통 딥러닝") by Yamashita Takayoshi ([Original Japanese book](https://www.kspub.co.jp/book/detail/1538252.html), [Korean book](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185890944)):star::star::star::star:
 
+> The contents are a bit outdated, but it can still serve as a not-too-bad introduction to deep learning. It is short - so it will save time if anyone here is after that.
+
 <details><summary>Expand</summary>
 <p>
 
@@ -230,6 +243,8 @@ The content of this book may be a bit old - it does not cover new methodologies 
 </br>
 
 5. "딥러닝 첫걸음" & "신경망 첫걸음" :star::star::star:
+
+> If you feel uncomfortable reading texts in English (or rather, you only find comfortable reading in Korean), then this book may be a good introduction to deep learning.
 
 <details><summary>Expand</summary>
 <p>
@@ -279,7 +294,8 @@ Six Sigma is an engineering philosophy that focuses on achieving the outcome of 
 </details>
 </br>
 
-</br>
+<br>
+<br>
 
 # Courses and MOOCS to be taken
 
