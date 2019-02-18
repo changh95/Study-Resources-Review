@@ -224,7 +224,7 @@ Computer Vision|Coursera|University of Pennsylvenia|
 **Cons:**
   - You need to know how to code in MATLAB. It's not hard, but who does serious computer vision in MATLAB?
  
-**My comments:**
+**My comments:** Generally I am finding the course structure very well made! I am currently taking week 4 materials before anything since it is related to my work. The lecturer talks a bit too slow, and some of the mathematical notations are hard to follow for me (but this is subjective, as it depends on preferences on vector dimensions). If you find week 4 difficult to follow, especially on epipolar geometry, try looking at this ([link](https://www.youtube.com/watch?v=Opy8xMGCDrE))
 
 </p>
 </details>
