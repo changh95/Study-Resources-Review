@@ -178,6 +178,32 @@ PyTorch|Udacity|Udacity & Facebook|
 </details>
 </br>
 
+2. **3Blue1Brown - Essential Linear Algebra** ([Link](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)) :star::star::star::star::star:
+
+Content|Platform|Author
+--|--|--
+Linear Algebra|Youtube|3Blue1Brown|
+
+>Okay, linear algebra is **NOT** machine learning. But a lot of people revisit linear algebra because they want to study machine learning, and I believe this is a VERY good resource for it.
+
+<details><summary>Expand</summary>
+<p>
+
+**Pros:**
+  - Very easy explanation + great visualisation
+  - Takes a relatively short time, compared to recorded university lectures or online MOOCs.
+  - Free!
+
+**Cons:**
+  - No actual practice of mathematics - you will understand the concept throughout the video series, but you will not learn how to actually implement this in your work.
+ 
+**My comments:**
+  - My honest opinion is that this is **not** the best way to learn linear algebra, but **is** the best way to revisit linear algebra. If you need to learn linear algebra from scratch, then this video series will only be 2~3 stars. 
+
+</p>
+</details>
+</br>
+
 ## Robotics & Computer Vision
 
 <br>
