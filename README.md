@@ -178,6 +178,55 @@ PyTorch|Udacity|Udacity & Facebook|
 </details>
 </br>
 
+## Robotics & Computer Vision
+
+<br>
+
+1. **Robotics : Perception** ([Link](https://www.coursera.org/learn/robotics-perception?specialization=robotics)) - currently taking :star::star::star::star:
+
+Content|Platform|Author
+--|--|--
+Computer Vision|Coursera|University of Pennsylvenia|
+
+> Currently taking! A good introduction to multiview geometry. BUT, you need to know how to code in MATLAB.
+
+<details><summary>Expand</summary>
+<p>
+
+**Pros:**
+
+**Cons:**
+  - You need to know how to code in MATLAB. It's not hard, but who does serious computer vision in MATLAB?
+ 
+**My comments:**
+
+</p>
+</details>
+</br>
+
+2. **Computer Vision for Faces** ([Link](https://courses.learnopencv.com/p/computer-vision-for-faces)) - currently taking :star::star::star::star:
+
+Content|Platform|Author
+--|--|--
+Computer Vision|Coursera|University of Pennsylvenia|
+
+> Currently taking! Will update. It seems like there are lots of interesting contents, but it's expensive! (358.80 USD!)
+
+<details><summary>Expand</summary>
+<p>
+
+**Pros:**
+
+**Cons:**
+  - Expensive! It was 358.80 USD when I took the course.
+  
+**My comments:**
+
+</p>
+</details>
+</br>
+
+
 # Books read
 
 ## Machine Learning
