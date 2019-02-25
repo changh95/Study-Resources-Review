@@ -477,6 +477,19 @@ May need to be complimented with learning Unity.
 </details>
 </br>
 
+2. **"Fast Campus - 컴퓨터 공학 올인원 패키지 (Korean)"**
+
+Platform|Author|url
+--|--|--
+Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
+
+<details><summary>Expand</summary>
+<p>
+  
+</p>
+</details>
+</br>
+
 <br>
 
 ## Machine Learning
@@ -522,6 +535,23 @@ Stanford|Ron Dror, Andrew Ng|[Link](http://cs229.stanford.edu/)
 </details>
 </br>
 
+4. **School of AI - Move37, Data-lit, Decentralised Applications**
+
+Platform|Author|url
+--|--|--
+School of AI|Siraj Raval|[Link](
+https://www.theschool.ai/courses/move-37-course/
+)
+
+<details><summary>Expand</summary>
+<p>
+Move37 - Reinforcement Learning, Data-lit - Big data and machine learning, Decentralised Applications - Blockchain
+</p>
+</details>
+</br>
+
+
+
 <br>
 
 ## Robotics
@@ -542,6 +572,36 @@ Stanford|Jeannette Bohg|[Link](https://cs.stanford.edu/groups/manips/teaching/cs
 </br>
 
 <br>
+
+2. **Robot Ignite Academy - Robot Operating System (ROS)**
+
+Platform|Author|url
+--|--|--
+Robot Ignite Academy|Robot Ignite Academy|[Link](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
+)
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+3. **ETH Zurich - Robot Operating System (ROS)**
+
+Platform|Author|url
+--|--|--
+Youtube|Robotic Systems Lab|[Link](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP&fbclid=IwAR1HcjfJbFQsMKGeOsSXQl-GY-lYdSTIwuxBD8UxOzr0OavgDnrZBT1i7T8)
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+<br>
+
 
 ## Computer Vision
 
@@ -595,6 +655,25 @@ Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.htm
 </details>
 </br>
 
+4. **"An introduction to Deep Reinforcement Learning"** ([pdf](https://arxiv.org/pdf/1811.12560.pdf))
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+
+4. **"Reinforcement Learning"** ([pdf](http://incompleteideas.net/book/bookdraft2018jan1.pdf))
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
 <br>
 
 ## Robotics
@@ -611,6 +690,7 @@ A great book about probabilistic methods in robotics, mostly focusing on state e
 </br>
 
 <br>
+
 
 ## Computer Vision
 
