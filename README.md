@@ -204,12 +204,11 @@ Linear Algebra|Youtube|3Blue1Brown|
 </details>
 </br>
 
-3. **CS231n - Convolutional Neural Networks for Visual Recognition (2017)(Currently taking)
-** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
+3. **CS231n - Convolutional Neural Networks for Visual Recognition (2017,Currently taking)** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
 
 Content|Platform|Author
 --|--|--
-Linear Algebra|Youtube|3Blue1Brown|
+CNN|Youtube|Stanford|
 
 >Currently taking! I will update as I take the course.
 
@@ -534,20 +533,7 @@ Coursera|Andrew Ng (Stanford)|[Link](https://ko.coursera.org/learn/machine-learn
 </details>
 </br>
 
-2. **CS231n** Spring 2018
-
-Platform|Author|url
---|--|--
-Stanford|Fei Fei Li|[Link](http://cs231n.stanford.edu/)
-
-<details><summary>Expand</summary>
-<p>
-
-</p>
-</details>
-</br>
-
-3. **CS229**
+2. **CS229**
 
 Platform|Author|url
 --|--|--
@@ -560,7 +546,7 @@ Stanford|Ron Dror, Andrew Ng|[Link](http://cs229.stanford.edu/)
 </details>
 </br>
 
-4. **School of AI - Move37, Data-lit, Decentralised Applications**
+3. **School of AI - Move37, Data-lit, Decentralised Applications**
 
 Platform|Author|url
 --|--|--
