@@ -204,6 +204,31 @@ Linear Algebra|Youtube|3Blue1Brown|
 </details>
 </br>
 
+3. **CS231n - Convolutional Neural Networks for Visual Recognition (2017)(Currently taking)
+** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
+
+Content|Platform|Author
+--|--|--
+Linear Algebra|Youtube|3Blue1Brown|
+
+>Currently taking! I will update as I take the course.
+
+<details><summary>Expand</summary>
+<p>
+
+**Pros:**
+
+
+**Cons:**
+  - 
+ 
+**My comments:**
+  - [NumPy tutorial for MATLAB users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html)
+
+</p>
+</details>
+</br>
+
 ## Robotics & Computer Vision
 
 <br>
