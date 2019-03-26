@@ -143,7 +143,7 @@ Python|Udemy|Rayan Slim, Jad Slim, Amer Sharaf, Sarmad Tanveer|
 
 5.**Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac**([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
 
->You just downloaded Ubuntu (or any linux system), and you need a very short-guide in how to work on the command line. This is the course!
+>20 minutes long tutorail into bash command line. If you have just downloaded Ubuntu (or any linux system), and you need a very short-guide in how to work on the command line. This is the course!
 
 <details><summary>Expand</summary>
 <p>
