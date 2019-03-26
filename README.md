@@ -141,7 +141,7 @@ Python|Udemy|Rayan Slim, Jad Slim, Amer Sharaf, Sarmad Tanveer|
 </details>
 </br>
 
-5.**Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac**([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
+5.**Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac** ([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
 
 >20 minutes long tutorail into bash command line. If you have just downloaded Ubuntu (or any linux system), and you need a very short-guide in how to work on the command line. This is the course!
 
@@ -167,7 +167,7 @@ Bash|Youtube|Briana (freecodingcamp.org)|
 </details>
 </br>
 
-5.**C Programming Tutorial for Beginners**([Link](https://www.youtube.com/watch?v=KJgsSFOSQv0)) :star::star::star:
+6. **C Programming Tutorial for Beginners** ([Link](https://www.youtube.com/watch?v=KJgsSFOSQv0)) :star::star::star:
 
 > 3 hours and 46 minutes long tutorial (I know - it's taking foreverrrr), but a very welcoming guide for C language.
 
@@ -195,8 +195,7 @@ C|Youtube|FreeCodingCamp|
 </details>
 </br>
 
-5.**C++ Programming Tutorial for Beginners **([Link](https://www.youtube.com/watch?v=vLnPwxZdW4Y
-)) :star::star::star::star:
+7. **C++ Programming Tutorial for Beginners** ([Link](https://www.youtube.com/watch?v=vLnPwxZdW4Y)) :star::star::star::star:
 
 > Currently taking!
 
@@ -221,7 +220,7 @@ C++|Youtube|FreeCodingCamp|
 </br>
 
 
-6. "Introduction to C++" (Intermediate/Advanced not yet taken) ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
+8. "Introduction to C++" (Intermediate/Advanced not yet taken) ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
 
 >I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
 
