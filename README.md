@@ -33,15 +33,14 @@
 
 1. **MATLAB Fundamentals** ([Link](https://www.mathworks.com/training-schedule/matlab-fundamentals.html)) :star::star::star::star::star:
 
-Language|Platform|Author
---|--|--
-MATLAB|MATLAB|MathsWorks
-
 >Best introduction to MATLAB, as well as into programming in general. Personally highly recommended.
 
 <details><summary>Expand</summary>
 <p>
 
+Language|Platform|Author
+--|--|--
+MATLAB|MATLAB|MathsWorks
 
 **Pros:**
   - You'll understand the basics of MATLAB + programming thoroughly. This is from handling variables, making tables, visualising data with simple graphs and charts.
@@ -62,14 +61,14 @@ MATLAB|MATLAB|MathsWorks
 
 2. **Shervine Amidi's MATLAB tutorials** ([Link](https://stanford.edu/~shervine/teaching/common/matlab-start)) :star::star::star:
 
-Language|Platform|Author
---|--|--
-MATLAB|Github|Shervine Amidi (Stanford)
-
 >You have 1 hour to learn MATLAB, this is the course (You won't learn it thoroughly though) If you have any prior programming experience and wish to learn MATLAB, also, take this course. Also, this course is **free**!
 
 <details><summary>Expand</summary>
 <p>
+
+Language|Platform|Author
+--|--|--
+MATLAB|Github|Shervine Amidi (Stanford)
 
 **Pros:**
   - Only covers important topics - so it doesn't waste your time.
@@ -90,15 +89,15 @@ MATLAB|Github|Shervine Amidi (Stanford)
 
 3. **CMU 15-112 "Fundamentals of Programming and Computer Science" (Fall '18)**([Link](https://www.cs.cmu.edu/~112/)) :star::star::star::star:
 
-Language|Platform|Author
---|--|--
-Python|Carnegie Mellon University|  |
-
->Highly recommended to learn Python language!
+>Highly recommended to learn Python language, or general programming!
 
 <details><summary>Expand</summary>
 <p>
   
+Language|Platform|Author
+--|--|--
+Python|Carnegie Mellon University|  |
+
 **Pros:**
   - Freely available! (Although the video capture of the lecture is not available)
   - Tutorials and homeworks are there to boost your skills.
@@ -116,16 +115,122 @@ Python|Carnegie Mellon University|  |
 </details>
 </br>
 
-3. "Introduction to C++" (Intermediate/Advanced not yet taken) ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
+3. **Python/NumPy Crash Course (in PyTorch for Deep Learning and Computer Vision Course)**([Link](https://www.udemy.com/pytorch-for-deep-learning-and-computer-vision/?couponCode=AMRCPN&fbclid=IwAR365BNSQ99t__AJ9Pe8foe-KxqBKRrGy5OunQzfwRdURjju67loswHD-lU)) :star::star::star::star:
 
+>You have 1 hour to learn Python, and you already know a bit about programming. This is the course! (Link for a discounted price!)
+
+<details><summary>Expand</summary>
+<p>
+  
 Language|Platform|Author
 --|--|--
-C++|edX|Microsoft|
+Python|Udemy|Rayan Slim, Jad Slim, Amer Sharaf, Sarmad Tanveer|
+
+**Pros:**
+  - Very good explanations!
+  - Fast paced
+  - You can actually see the code running in Jupyter Notebook
+
+**Cons:**
+  - You need to pay (but personally I think it is worth the price with a discount.
+ 
+**My comments:**
+  - I originally took this course hoping to see a fast-paced PyTorch course, but I stayed for Python / numpy crash course. Easily the fastest, while containing the essential information to start working on PyTorch. Pre-requisites include basic understanding in programming like variables, for-loops, while-loops etc - in which people generally start programming by learning Python first, so I don't think this is applicable for many people out there (maybe for engineers who started programming with MATLAB, or computer scientists with Java/Javascript?)
+
+</p>
+</details>
+</br>
+
+5.**Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac**([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
+
+>You just downloaded Ubuntu (or any linux system), and you need a very short-guide in how to work on the command line. This is the course!
+
+<details><summary>Expand</summary>
+<p>
+  
+Language|Platform|Author
+--|--|--
+Bash|Youtube|Briana (freecodingcamp.org)|
+
+**Pros:**
+  - Essential information only
+  - Only 20~ minutes long
+  - Cheatsheet provided!
+
+**Cons:**
+  - No actual advanced stuffs included.
+ 
+**My comments:**
+  - I myself is actually pretty new to using command line in ubuntu. I knew how to navigate, open, install, uninstall stuffs... but I didn't know how to edit things within the command line using Vim. This tutorial may be useful if you consider yourself as a 'definitely-not-an-expert in command lines'.
+
+</p>
+</details>
+</br>
+
+5.**C Programming Tutorial for Beginners**([Link](https://www.youtube.com/watch?v=KJgsSFOSQv0)) :star::star::star:
+
+> 3 hours and 46 minutes long tutorial (I know - it's taking foreverrrr), but a very welcoming guide for C language.
+
+<details><summary>Expand</summary>
+<p>
+  
+Language|Platform|Author
+--|--|--
+C|Youtube|FreeCodingCamp|
+
+**Pros:**
+  - Well-structured contents
+  - Very friendly explanation
+
+**Cons:**
+  - No real-life examples
+  - 3 hours and 46 minutes in a single video? 100% I won't get bored ;)
+  - A little too basic content, and not-so-fast-paced.
+ 
+**My comments:**
+  - The 3 hours and 46 minutes runtime may scare you, and yes, I felt the same. The way I took this course is by just watching the video before sleep, sometimes just for 5 minutes, sometimes for an hour. I didn't really like sit down and dig through it, but that is also one way to do it. The impression of this course to me is that it can be better packed - the content structure is very good, but it is at the most basic level and does not empower the student to carry out an individual project with confidence. This may be the perfect course if you just wanna learn how to read C code written by someone, but definitely not for someone who wishes to dig into C language.
+  - By the way, **FreeCodeCamp.Org** does similar videos for other languages, like C++, C#, php, Java, Javascript, React, Node.js etc. Check out their youtube channel ([Link](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)), 
+
+</p>
+</details>
+</br>
+
+5.**C++ Programming Tutorial for Beginners **([Link](https://www.youtube.com/watch?v=vLnPwxZdW4Y
+)) :star::star::star::star:
+
+> Currently taking!
+
+<details><summary>Expand</summary>
+<p>
+  
+Language|Platform|Author
+--|--|--
+C++|Youtube|FreeCodingCamp|
+
+**Pros:**
+
+
+**Cons:**
+
+ 
+**My comments:**
+  - By the way, **FreeCodeCamp.Org** does similar videos for other languages, like C++, C#, php, Java, Javascript, React, Node.js etc. Check out their youtube channel ([Link](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)), 
+
+</p>
+</details>
+</br>
+
+
+6. "Introduction to C++" (Intermediate/Advanced not yet taken) ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
 
 >I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
 
 <details><summary>Expand</summary>
 <p>
+  
+Language|Platform|Author
+--|--|--
+C++|edX|Microsoft|
   
 **Pros:**
   - Experts from Microsoft talks about C++.
@@ -140,12 +245,6 @@ C++|edX|Microsoft|
 </details>
 </br>
 
-4. (UNIX) Introduction to Linux ([Link](https://www.edx.org/course/introduction-to-linux))
-
-Language|Platform|Author
---|--|--
-UNIX|edX|LinuxFoundationX
-
 <br>
 
 ## Machine Learning
@@ -154,14 +253,14 @@ UNIX|edX|LinuxFoundationX
 
 1. **Introduction to PyTorch** ([Link](https://blog.udacity.com/2018/10/introducing-the-pytorch-scholarship-challenge-from-facebook.html)) :star::star::star::star::star:
 
-Content|Platform|Author
---|--|--
-PyTorch|Udacity|Udacity & Facebook|
-
 >The **EASIEST** PyTorch + Deep learning course ever!
 
 <details><summary>Expand</summary>
 <p>
+
+Content|Platform|Author
+--|--|--
+PyTorch|Udacity|Udacity & Facebook|
 
 **Pros:**
   - Easy explanation of difficult concepts.
@@ -180,14 +279,14 @@ PyTorch|Udacity|Udacity & Facebook|
 
 2. **3Blue1Brown - Essential Linear Algebra** ([Link](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)) :star::star::star::star::star:
 
-Content|Platform|Author
---|--|--
-Linear Algebra|Youtube|3Blue1Brown|
-
 >Okay, linear algebra is **NOT** machine learning. But a lot of people revisit linear algebra because they want to study machine learning, and I believe this is a VERY good resource for it.
 
 <details><summary>Expand</summary>
 <p>
+
+Content|Platform|Author
+--|--|--
+Linear Algebra|Youtube|3Blue1Brown|
 
 **Pros:**
   - Very easy explanation + great visualisation
@@ -206,14 +305,14 @@ Linear Algebra|Youtube|3Blue1Brown|
 
 3. **CS231n - Convolutional Neural Networks for Visual Recognition (2017,Currently taking)** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
 
-Content|Platform|Author
---|--|--
-CNN|Youtube|Stanford|
-
 >Currently taking! I will update as I take the course.
 
 <details><summary>Expand</summary>
 <p>
+
+Content|Platform|Author
+--|--|--
+CNN|Youtube|Stanford|
 
 **Pros:**
 
@@ -228,20 +327,44 @@ CNN|Youtube|Stanford|
 </details>
 </br>
 
+4. **MIT 18.06 Linear Algebra (2005)** ([Link](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)) :star::star::star::star::star:
+
+>Currently taking the famous course by Prof Gilbert Strang! I'm half-way through the course - this course is very good!
+
+<details><summary>Expand</summary>
+<p>
+
+Content|Platform|Author
+--|--|--
+Linear Algebra|Youtube|MIT|
+
+**Pros:**
+
+
+**Cons:**
+  - 
+ 
+**My comments:**
+
+</p>
+</details>
+</br>
+
+
 ## Robotics & Computer Vision
 
 <br>
 
 1. **Robotics : Perception** ([Link](https://www.coursera.org/learn/robotics-perception?specialization=robotics)) - currently taking :star::star::star::star:
 
-Content|Platform|Author
---|--|--
-Computer Vision|Coursera|University of Pennsylvenia|
-
 > Currently taking! A good introduction to multiview geometry. BUT, you need to know how to code in MATLAB.
 
 <details><summary>Expand</summary>
 <p>
+
+Content|Platform|Author
+--|--|--
+Computer Vision|Coursera|University of Pennsylvenia|
 
 **Pros:**
 
@@ -256,14 +379,14 @@ Computer Vision|Coursera|University of Pennsylvenia|
 
 2. **Computer Vision for Faces** ([Link](https://courses.learnopencv.com/p/computer-vision-for-faces)) - currently taking :star::star::star::star:
 
-Content|Platform|Author
---|--|--
-Computer Vision|Coursera|University of Pennsylvenia|
-
 > Currently taking! Will update. It seems like there are lots of interesting contents, but it's expensive! (358.80 USD!)
 
 <details><summary>Expand</summary>
 <p>
+
+Content|Platform|Author
+--|--|--
+Computer Vision|Coursera|University of Pennsylvenia|
 
 **Pros:**
 
