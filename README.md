@@ -645,7 +645,7 @@ Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
 </details>
 </br>
 
-4. **Matplotlib Tutorial Series - Graphing in Python (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF))
+4. **Matplotlib Tutorial Series - Graphing in Python (by Sentdex)** ([Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF))
 
 > Matplotlib tutorial 
 
@@ -656,7 +656,7 @@ Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
 </details>
 </br>
 
-5. **Monte Carlo Simulation with Python (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0))
+5. **Monte Carlo Simulation with Python (by Sentdex)** ([Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0))
 
 > Monte Carlo Simulation tutorial
 
@@ -667,7 +667,7 @@ Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
 </details>
 </br>
 
-6. **Data Analysis with Python and Pandas (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+6. **Data Analysis with Python and Pandas (by Sentdex)** ([Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-))
 
 > Pandas tutorial
 
@@ -741,7 +741,7 @@ Youtube|Sentdex|[Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3K
 </details>
 </br>
 
-4. **Scikit-learn Machine Learning with Python and SKlearn - Sentdex** ([Link](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3))
+5. **Scikit-learn Machine Learning with Python and SKlearn - Sentdex** ([Link](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3))
 
 > Scikit-learn tutorial with a focus on finance, by a youtube channel Sentdex
 
