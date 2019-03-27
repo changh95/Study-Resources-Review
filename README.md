@@ -492,6 +492,8 @@ Easy introduction to deep learning and neural networks. Only recommended if the 
 
 1. **"Modern Robotics: Mechanics, Planning and Control"** by Kevin M. Lynch and Frank C. Park ([Pre-Print pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf), [Amazon](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300), [Coursera](https://www.coursera.org/specializations/modernrobotics)) :star::star::star::star::star:
 
+> If you ever get stuck in understanding advanced robotics concepts in academic research papers, or may need to lead yourself into a deeper understanding of fundamental concepts within robotics... here it is :)
+
 <details><summary>Expand</summary>
 <p>
 
@@ -502,6 +504,8 @@ I've only read this book on Kinematics section (Chapter 4-6), therefore remains 
 </br>
 
 2. **"Computer Vision - Algorithms and Application"** - by Richard Szeliski ([pdf](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)) :star::star::star::star::star:
+
+> I've always felt that online computer vision courses only focus on implementation. There are 'some' online courses that focus on the theory, but these are mostly on advanced concepts like SLAM. Yes, we work mostly on implementation, and yes this way we get more students and money - but really, people need to be aware that understanding the background of each techniques in computer vision is essential for performance optimisation. How many times do we see people blindly using SIFT/SURF for feature detection? How many times do we see people blindly using YOLO for the simplest detection tasks? We need to understand what methods are available out there, what their pros/cons are, and why they have such properties. Obviously reading papers on each techniques will be the most informative, but it consumes too much time, so this book has summarised all the important information of traditional computer vision techniques.
 
 <details><summary>Expand</summary>
 <p>
@@ -538,46 +542,48 @@ Six Sigma is an engineering philosophy that focuses on achieving the outcome of 
 
 <br>
 
-1. **"Mathematics for Machine Learning : Linear Algebra"**
+1. **"Mathematics for Machine Learning : Linear Algebra"** ([Link](https://www.coursera.org/learn/linear-algebra-machine-learning))
+
+> Recommended by many students at Imperial College and StackOverflow. Apparently this course is perfect to harden the knowledge of linear algebra.
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Coursera|Imperial College London|[Link](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
-<details><summary>Expand</summary>
-<p>
-
-Recommended by many students at Imperial College and StackOverflow. Apparently this course is perfect to harden the knowledge of linear algebra.
-
 </p>
 </details>
 </br>
 
-2. **"Probabilistic Systems Analysis and Applied Probability"**, 6.041 / 6.431 Fall 2010
+2. **"Probabilistic Systems Analysis and Applied Probability"**, 6.041 / 6.431 Fall 2010 ([Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/))
+
+> Recommended by a number of Korean deep learning researchers. The course seems a bit old - may be replaced by other new courses if better ones are found.
+
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 MIT OpenCourseware|Prof. John Tsitsiklis|[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 
-<details><summary>Expand</summary>
-<p>
-
-Recommended by some Korean deep learning researchers. The course seems a bit old - may be replaced by other new courses if better ones are found.
-
 </p>
 </details>
 </br>
 
-3. **Calculus, Statistics and Algebra** by "Professor Leonard"
+3. **Calculus, Statistics and Algebra** by "Professor Leonard" ([Link](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg))
 
-Platform|Author|url
---|--|--
-Youtube|Professor Leonard|[Link](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
+> Video playlists made by a youtuber. Very good at explanation, however I'm not yet sure if these can be useful for machine learning.
+
 
 <details><summary>Expand</summary>
 <p>
   
-Video playlists made by a youtuber. Very good at explanation, however I'm not yet sure if these can be useful for machine learning.
+Platform|Author|url
+--|--|--
+Youtube|Professor Leonard|[Link](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
 
 </p>
 </details>
@@ -594,44 +600,80 @@ Probability theory - CS109 or Stats116
 
 <br>
 
-1. **"Introduction to C++"**, 6.069 Jan 2011
+1. **"Introduction to C++"**, 6.069 Jan 2011 ([Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/))
 
+> Quite an old resource - may not cover C++11 or C++14. Need to check.
+
+
+<details><summary>Expand</summary>
+<p>
+  
 Platform|Author|url
 --|--|--
 MIT OpenCourseware|Jesse Dunietz|[Link](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
 
-<details><summary>Expand</summary>
-<p>
-  
-Quite an old resource - may not cover C++11 or C++14. Need to check.
-
 </p>
 </details>
 </br>
 
-2. **"Introduction to C#"**
+2. **"Introduction to C#"** ([Link](https://www.edx.org/course/introduction-to-c-sharp-1))
 
+> May need to be complimented with learning Unity.
+
+<details><summary>Expand</summary>
+<p>
+  
 Platform|Author|url
 --|--|--
 edX|Microsoft|[Link](https://www.edx.org/course/introduction-to-c-sharp-1)
 
-<details><summary>Expand</summary>
-<p>
-  
-May need to be complimented with learning Unity.
 </p>
 </details>
 </br>
 
-2. **"Fast Campus - 컴퓨터 공학 올인원 패키지 (Korean)"**
+3. **"Fast Campus - 컴퓨터 공학 올인원 패키지 (Korean)"** ([Link](https://online.fastcampus.co.kr/p/dev_online_cs))
+
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
 
+</p>
+</details>
+</br>
+
+4. **Matplotlib Tutorial Series - Graphing in Python (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF))
+
+> Matplotlib tutorial 
+
 <details><summary>Expand</summary>
 <p>
-  
+
+</p>
+</details>
+</br>
+
+5. **Monte Carlo Simulation with Python (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDdhOnp-FnVStDsALpYk2hk0))
+
+> Monte Carlo Simulation tutorial
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
+
+6. **Data Analysis with Python and Pandas (by Sentdex)** ([Link]https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+
+> Pandas tutorial
+
+<details><summary>Expand</summary>
+<p>
+
 </p>
 </details>
 </br>
@@ -642,47 +684,73 @@ Fast Campus|Fast Campus|[Link](https://online.fastcampus.co.kr/p/dev_online_cs)
 
 <br>
 
-1. **'Machine Learning"** , **"Deep Learning"**
+1. **'Machine Learning"** , **"Deep Learning"** ([Link](https://ko.coursera.org/learn/machine-learning))
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Coursera|Andrew Ng (Stanford)|[Link](https://ko.coursera.org/learn/machine-learning)
 
-<details><summary>Expand</summary>
-<p>
-
 </p>
 </details>
 </br>
 
-2. **CS229**
+2. **CS229** ([Link](http://cs229.stanford.edu/))
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Stanford|Ron Dror, Andrew Ng|[Link](http://cs229.stanford.edu/)
 
-<details><summary>Expand</summary>
-<p>
-
 </p>
 </details>
 </br>
 
-3. **School of AI - Move37, Data-lit, Decentralised Applications**
+3. **School of AI - Move37, Data-lit, Decentralised Applications** ([Link](https://www.theschool.ai/courses/move-37-course/))
+
+> Move37 - Reinforcement Learning, Data-lit - Big data and machine learning, Decentralised Applications - Blockchain
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
-School of AI|Siraj Raval|[Link](
-https://www.theschool.ai/courses/move-37-course/
-)
+School of AI|Siraj Raval|[Link](https://www.theschool.ai/courses/move-37-course/)
+  
 
-<details><summary>Expand</summary>
-<p>
-Move37 - Reinforcement Learning, Data-lit - Big data and machine learning, Decentralised Applications - Blockchain
 </p>
 </details>
 </br>
 
+4. **Machine Learning with Python - Sentdex** ([Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v))
+
+> Traditional machine learning techniques to convolutional neural network + 3D CNN, by a youtube channel Sentdex
+
+<details><summary>Expand</summary>
+<p>
+
+Platform|Author|url
+--|--|--
+Youtube|Sentdex|[Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+</p>
+</details>
+</br>
+
+4. **Scikit-learn Machine Learning with Python and SKlearn - Sentdex** ([Link](https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3))
+
+> Scikit-learn tutorial with a focus on finance, by a youtube channel Sentdex
+
+<details><summary>Expand</summary>
+<p>
+
+</p>
+</details>
+</br>
 
 
 <br>
@@ -691,14 +759,14 @@ Move37 - Reinforcement Learning, Data-lit - Big data and machine learning, Decen
 
 <br>
 
-1. **CS223-A**
+1. **CS223-A** ([Link](https://cs.stanford.edu/groups/manips/teaching/cs223a/))
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Stanford|Jeannette Bohg|[Link](https://cs.stanford.edu/groups/manips/teaching/cs223a/)
-
-<details><summary>Expand</summary>
-<p>
 
 </p>
 </details>
@@ -706,32 +774,42 @@ Stanford|Jeannette Bohg|[Link](https://cs.stanford.edu/groups/manips/teaching/cs
 
 <br>
 
-2. **Robot Ignite Academy - Robot Operating System (ROS)**
+2. **Robot Ignite Academy - Robot Operating System (ROS)** ([Link](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/))
 
-Platform|Author|url
---|--|--
-Robot Ignite Academy|Robot Ignite Academy|[Link](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/
-)
 
 <details><summary>Expand</summary>
 <p>
+
+Platform|Author|url
+--|--|--
+Robot Ignite Academy|Robot Ignite Academy|[Link](http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/)
 
 </p>
 </details>
 </br>
 
-3. **ETH Zurich - Robot Operating System (ROS)**
+3. **ETH Zurich - Robot Operating System (ROS)** ([Link](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP&fbclid=IwAR1HcjfJbFQsMKGeOsSXQl-GY-lYdSTIwuxBD8UxOzr0OavgDnrZBT1i7T8))
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Youtube|Robotic Systems Lab|[Link](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP&fbclid=IwAR1HcjfJbFQsMKGeOsSXQl-GY-lYdSTIwuxBD8UxOzr0OavgDnrZBT1i7T8)
 
-<details><summary>Expand</summary>
-<p>
-
 </p>
 </details>
 </br>
+
+3. **Raspberry Pi with Python** ([Link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDesV8WWHLLXW_avmTzHmJLv))
+
+<details><summary>Expand</summary>
+<p>
+  
+</p>
+</details>
+</br>
+
 
 <br>
 
@@ -740,14 +818,14 @@ Youtube|Robotic Systems Lab|[Link](https://www.youtube.com/playlist?list=PLE-BQw
 
 <br>
 
-1. **CS223-B**
+1. **CS223-B** ([Link](http://robots.stanford.edu/cs223b05/schedule.html))
+
+<details><summary>Expand</summary>
+<p>
 
 Platform|Author|url
 --|--|--
 Stanford|Sebastian Thrun|[Link](http://robots.stanford.edu/cs223b05/schedule.html)
-
-<details><summary>Expand</summary>
-<p>
 
 </p>
 </details>
