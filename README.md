@@ -20,8 +20,11 @@
 
 * [Courses and MOOCs taken](#courses-and-moocs-taken)
   * [Programming](#programming)
-  
+  * [Machine Learning](#machine-learning)
+  * [Mathematics](#mathematics)
+  * [Robotics & Computer Vision](#robotics-and-computer-vision)
 * [Books read](#books-read)
+  * [Machine Learning)(#machine-learning)
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
 
@@ -357,7 +360,7 @@ Linear Algebra|Youtube|MIT|
 </br>
 
 
-## Robotics & Computer Vision
+## Robotics and Computer Vision
 
 <br>
 
@@ -493,7 +496,7 @@ Easy introduction to deep learning and neural networks. Only recommended if the 
 
 <br>
 
-## Robotics & Computer Vision
+## Robotics and Computer Vision
 
 <br>
 
