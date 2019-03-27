@@ -122,7 +122,7 @@ Python|Carnegie Mellon University|  |
 </details>
 </br>
 
-3. **Python/NumPy Crash Course (in PyTorch for Deep Learning and Computer Vision Course)**([Link](https://www.udemy.com/pytorch-for-deep-learning-and-computer-vision/?couponCode=AMRCPN&fbclid=IwAR365BNSQ99t__AJ9Pe8foe-KxqBKRrGy5OunQzfwRdURjju67loswHD-lU)) :star::star::star::star:
+4. **Python/NumPy Crash Course (in PyTorch for Deep Learning and Computer Vision Course)**([Link](https://www.udemy.com/pytorch-for-deep-learning-and-computer-vision/?couponCode=AMRCPN&fbclid=IwAR365BNSQ99t__AJ9Pe8foe-KxqBKRrGy5OunQzfwRdURjju67loswHD-lU)) :star::star::star::star:
 
 >You have 1 hour to learn Python, and you already know a bit about programming. This is the course! (Link for a discounted price!)
 
@@ -148,7 +148,7 @@ Python|Udemy|Rayan Slim, Jad Slim, Amer Sharaf, Sarmad Tanveer|
 </details>
 </br>
 
-5.**Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac** ([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
+5. **Briana's Bash Tutorial: How to Use the Command Line in Linux, Windows, and Mac** ([Link](https://www.youtube.com/watch?v=BFMyUgF6I8Y)) :star::star::star::star::star:
 
 >20 minutes long tutorail into bash command line. If you have just downloaded Ubuntu (or any linux system), and you need a very short-guide in how to work on the command line. This is the course!
 
@@ -227,7 +227,7 @@ C++|Youtube|FreeCodingCamp|
 </br>
 
 
-8. "Introduction to C++" (Intermediate/Advanced not yet taken) ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
+8. **"Introduction to C++" (Intermediate/Advanced not yet taken)** ([Link](https://www.edx.org/course/introduction-c-plus-plus-1)) :star::star:
 
 >I don't know if C++ is just hard, of just this lecture is hard to understand... but one thing is sure. This lecture is **HARD**.
 
