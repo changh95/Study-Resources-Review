@@ -276,33 +276,7 @@ PyTorch|Udacity|Udacity & Facebook|
 </details>
 </br>
 
-2. **3Blue1Brown - Essential Linear Algebra** ([Link](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)) :star::star::star::star::star:
-
->Okay, linear algebra is **NOT** machine learning. But a lot of people revisit linear algebra because they want to study machine learning, and I believe this is a VERY good resource for it.
-
-<details><summary>Expand</summary>
-<p>
-
-Content|Platform|Author
---|--|--
-Linear Algebra|Youtube|3Blue1Brown|
-
-**Pros:**
-  - Very easy explanation + great visualisation
-  - Takes a relatively short time, compared to recorded university lectures or online MOOCs.
-  - Free!
-
-**Cons:**
-  - No actual practice of mathematics - you will understand the concept throughout the video series, but you will not learn how to actually implement this in your work.
- 
-**My comments:**
-  - My honest opinion is that this is **not** the best way to learn linear algebra, but **is** the best way to revisit linear algebra. If you need to learn linear algebra from scratch, then this video series will only be 2~3 stars. 
-
-</p>
-</details>
-</br>
-
-3. **CS231n - Convolutional Neural Networks for Visual Recognition (2017,Currently taking)** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
+2. **CS231n - Convolutional Neural Networks for Visual Recognition (2017,Currently taking)** ([Link](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)) :star::star::star::star::star:
 
 >Currently taking! I will update as I take the course.
 
@@ -326,7 +300,38 @@ CNN|Youtube|Stanford|
 </details>
 </br>
 
-4. **MIT 18.06 Linear Algebra (2005)** ([Link](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)) :star::star::star::star::star:
+
+## Mathematics
+
+<br>
+
+1. **3Blue1Brown - Essential Linear Algebra** ([Link](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)) :star::star::star::star::star:
+
+> A good resource to learn linear algebra quickly
+
+<details><summary>Expand</summary>
+<p>
+
+Content|Platform|Author
+--|--|--
+Linear Algebra|Youtube|3Blue1Brown|
+
+**Pros:**
+  - Very easy explanation + great visualisation
+  - Takes a relatively short time, compared to recorded university lectures or online MOOCs.
+  - Free!
+
+**Cons:**
+  - No actual practice of mathematics - you will understand the concept throughout the video series, but you will not learn how to actually implement this in your work.
+ 
+**My comments:**
+  - My honest opinion is that this is **not** the best way to learn linear algebra, but **is** the best way to revisit linear algebra. If you need to learn linear algebra from scratch, then this video series will only be 2~3 stars. 
+
+</p>
+</details>
+</br>
+
+2. **MIT 18.06 Linear Algebra (2005)** ([Link](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)) :star::star::star::star::star:
 
 >Currently taking the famous course by Prof Gilbert Strang! I'm half-way through the course - this course is very good!
 
