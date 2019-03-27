@@ -19,12 +19,14 @@
 <br>
 
 * [Courses and MOOCs taken](#courses-and-moocs-taken)
-  * [Programming](#programming)
-  * [Machine Learning](#machine-learning)
-  * [Mathematics](#mathematics)
-  * [Robotics & Computer Vision](#robotics-and-computer-vision)
+ * Programming
+ * Machine Learning
+ * Mathematics
+ * Robotics & Computer Vision
 * [Books read](#books-read)
-  * [Machine Learning](#machine-learning)
+ * Machine Learning
+ * Robotics & Computer Vision
+ * Quality Engineering
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
 
