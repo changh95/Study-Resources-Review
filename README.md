@@ -24,7 +24,7 @@
   * [Mathematics](#mathematics)
   * [Robotics & Computer Vision](#robotics-and-computer-vision)
 * [Books read](#books-read)
-  * [Machine Learning)(#machine-learning)
+  * [Machine Learning](#machine-learning)
 * [Courses and MOOCs to be taken](#courses-and-moocs-to-be-taken)
 * [Books to be read](#Books-to-be-read)
 
